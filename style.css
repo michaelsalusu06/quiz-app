@@ -1,0 +1,49 @@
+body 
+{
+  text-align: center;
+}
+
+#questionCard 
+{
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  background-color: lightgray;
+  border-radius: 10px;
+}
+
+#tru
+{
+  padding: 10px;
+  font-weight: bold;
+}
+
+#fals
+{
+  padding: 10px;
+  font-weight: bold;
+}
+
+#score, #timer
+{
+  font-size: 1.5em;
+  margin-left: 10px;
+}
+
+#data
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#score0
+{
+   font-size: 1.5em;
+   margin-left: 140px;
+}
+
+#timer0
+{
+  font-size: 1.5em;
+  margin-left: 800px;
+}
